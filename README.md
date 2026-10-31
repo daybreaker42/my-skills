@@ -1,6 +1,6 @@
-# AI-Native Hackathon Codex Skills
+# my Codex Skills
 
-AI 코딩 과제에서 **문제 정의 → 계획 → 구현 → 검증 → 근거 설명**을 일관되게 수행하도록 돕는 독립형 Codex Skill 5종입니다.
+**문제 정의 → 계획 → 구현 → 검증 → 근거 설명**을 일관되게 수행하도록 돕는 독립형 Codex Skill 5종입니다.
 
 ## 구성
 
